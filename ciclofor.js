@@ -5,6 +5,8 @@ let iceCreamFlavors = [
     "Pistacho",
     "Neapolitan",
     "Mint Chip",
+    "Oreo",
+    "Dulce de leche"
   ];
   
   
